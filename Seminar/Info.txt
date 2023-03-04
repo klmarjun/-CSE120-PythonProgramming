@@ -1,0 +1,51 @@
+Good Afternoon to one and all .. This is M.Arjun here to take a seminar on conditional statements in python.
+first of all what is condition
+In layman terms condition means something that must happen so that something else can happen or be possible
+so its time to get into the presentation
+SLIDE 2:
+In this conditional statement topic i'm going to cover topics such as 	if 	 ifelse		 elif 		nested if 	and at last i have an intresting question for you all
+okay we'll go through the introduction first and then move on to types
+SLIDE 3:
+A conditional statement is used where a condition is existing and where it checks the condition and executes according to the truness of the condition.
+the condition mentioned in that conditional statement is of type Boolean
+SLIDE 4:
+Importance of conditional statement .. we often use this word if in our day to day life ....
+In programming without if we cannot write any condition 
+SLIDE 5:
+Here comes types of conditional statements:
+the first is if,second is if else,third is elif and the fourth is nested if
+lets see those topic one by one in detail
+SLIDE 6:
+soo if statement is one of the most easiest one to understand and also to code
+condition is followed by if statement where the condition can be written using any operator 
+IF i enrolled myself for taking seminar
+then i should make a ppt
+SLIDE 7:
+Here is the sample program for if statement and the output is shown below.
+SLIDE 8:
+IF ELSE is used when you want to execute something when the condition is false
+IF i'm buying something.... i have to pay for it
+ELSE i dont have to pay for it
+SLIDE 9:
+Here is the sample program for if else statement and the output is shown below.
+SLIDE 10:
+ELIF (EL from else) and adding IF to it .
+this is used to add multiple conditions between if else conditions
+Adding elif gives some preciseness to the output
+SLIDE 11:
+Here you can see the sample program for elif statement and the output is displayed below
+SLIDE 12:
+Coming to the last topic IF ELSE ladder
+in this you can code a conditional statement inside an other one 
+This is more precise compared to any type of conditional statement
+Becoz u can add n number conditional statements one inside the other.
+SLIDE 13:
+Here you can see the sample program for nested if statement and the output is displayed below
+SLIDE 14:
+Here comes the question .. the question is to find the age with the help of if else and you can prompt the user 6 times soo that you find their age in maximum of 6 chances . constraints are( Here the min value of age is 0 and the max value of age is 100 ) (Hint: use for loop)
+Thanks for listening.
+
+
+
+
+

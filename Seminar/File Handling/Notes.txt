@@ -1,0 +1,42 @@
+Good morning one and all.. This is arjun here to present a seminar on the topic File Handling in Python.
+
+__________
+So lets get into the presentation..
+In this topic we will see about What is files, Operations on file Handling,How to edit a file and how to read,append,write files and Sample programs 
+_____________
+Files:
+File is a space or storage which can get hold of a group of data
+it can be a text file,json file,csv file
+The file is saved in the hard disk and it can be accessed even after the computer is turned off.
+________________
+There are three modes in which we can acces the file
+the first one is read mode - it reads an existing file and throws an error if the file name entered is not present
+the second one is append mode - the user can append any information in a new file or an pre-existing file i.e if the file is present and you want to add some additional info you can use  append
+the third one is write mode - the user can write any information in a new file or a pre-existing one
+The main purpose in writing a file is to delete the content of a file and replace it entirely with new content.
+________________
+ How do we a edit a file
+Lets talk in general we do open a file, add or take some important papers and then close and keept it.
+same way in programming we first open a file and the next is the user's choice whether to read,append,write after doing that close the file. closing the file is important because sometimes the changes made in that file may not show until the file is closed.
+_________________
+The with statement works with the open() function to open a file.
+here the first.txt is the text file which I'm already having in my system and it is opened in R mode.. if not mentioned any mode it would open in read mode by default.
+Then reading the content through a variable and printing that variable.
+This is how to read a file and print the content inside the file.
+___________________
+Next comes the append mode.. here i have opened it through A as mode which means appending. Appending is done usually on an existing file and sometimes it is done for creating a new file.
+here i'm writing the content using the function f.write() 
+we need not worry about the pre-existing information that will neither get edited nor get erased.
+__________________
+and here is the last mode in which we can access the file
+that is write mode.. this is similar to append mode the only difference between between write and append is in writing a file which has pre existing info it deletes them all and write the content whereas in append the information is added to it.
+__________________
+Sample Program
+__________________
+Sample Program
+__________________
+
+Thanks for listening guys!!!
+
+
+

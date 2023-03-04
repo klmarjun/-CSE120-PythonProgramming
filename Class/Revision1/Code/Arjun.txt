@@ -1,0 +1,13 @@
+Append 2
+Append 14
+Append 21
+insert 2 12
+append 1
+update 1 11
+Delete 0
+appEnd 81
+delete 2
+insert 1 14
+Append 4
+Append 12
+Delete 2

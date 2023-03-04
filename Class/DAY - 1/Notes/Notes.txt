@@ -1,0 +1,25 @@
+What is Python?
+- High Level Programming Language
+- Interpreter Programming language
+- General purpose Programming Language
+- Interactive Programming Language
+- Dynamically typed Programming Language
+
+Discoverd by Guido Van Rossum
+Fan of Monty Pythons Flying Circus
+There is a lot of existing libraries,packages and frameworks
+
+python is 
+-Object oriented
+-Free source 
+-Powerful
+-Mixable
+
+Applications:
+1.Data Visualization
+2.Machine Learning
+
+Data type:
+type of value that our variable is holding .
+
+
